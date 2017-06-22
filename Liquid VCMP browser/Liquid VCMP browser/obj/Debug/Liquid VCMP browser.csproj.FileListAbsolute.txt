@@ -1,0 +1,13 @@
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\Liquid VCMP browser.exe.config
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\Liquid VCMP browser.exe
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\Liquid VCMP browser.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\MetroFramework.Design.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\MetroFramework.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\MetroFramework.Fonts.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\Debug\Liquid VCMP browser.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\Debug\Liquid_VCMP_browser.Properties.Resources.resources
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\Debug\Liquid VCMP browser.csproj.GenerateResource.Cache
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\Debug\Liquid VCMP browser.exe
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\Debug\Liquid VCMP browser.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\Debug\Newtonsoft.Json.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\Debug\Liquid_VCMP_browser.Test2.resources

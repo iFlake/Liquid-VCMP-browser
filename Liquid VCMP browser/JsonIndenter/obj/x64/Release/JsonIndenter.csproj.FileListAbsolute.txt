@@ -1,0 +1,6 @@
+C:\ir\lvcmp\Liquid VCMP browser\JsonIndenter\bin\x64\Release\JsonIndenter.dll
+C:\ir\lvcmp\Liquid VCMP browser\JsonIndenter\bin\x64\Release\JsonIndenter.pdb
+C:\ir\lvcmp\Liquid VCMP browser\JsonIndenter\obj\x64\Release\JsonIndenter.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\JsonIndenter\obj\x64\Release\JsonIndenter.dll
+C:\ir\lvcmp\Liquid VCMP browser\JsonIndenter\obj\x64\Release\JsonIndenter.pdb
+C:\ir\lvcmp\Liquid VCMP browser\JsonIndenter\bin\x64\Release\MetroFramework.dll

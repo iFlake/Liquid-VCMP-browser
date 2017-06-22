@@ -1,0 +1,5 @@
+C:\ir\lvcmp\Liquid VCMP browser\Query\bin\Release\Query.dll
+C:\ir\lvcmp\Liquid VCMP browser\Query\bin\Release\Query.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Query\obj\Release\Query.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\Query\obj\Release\Query.dll
+C:\ir\lvcmp\Liquid VCMP browser\Query\obj\Release\Query.pdb

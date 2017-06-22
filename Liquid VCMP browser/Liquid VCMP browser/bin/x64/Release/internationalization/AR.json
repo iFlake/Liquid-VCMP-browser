@@ -1,0 +1,14 @@
+{
+    "name": "العربيه (Arabic)",
+    "ltr": false,
+    "phrases":
+    {
+        "servers": "غرفات",
+        "settings": "إعدادات",
+        "favorites": "مفضلات",
+        "internet": "انترنيت",
+        "official": "رمسية",
+        "normal": "عادي",
+        "nickname": "اسم"
+    }
+}

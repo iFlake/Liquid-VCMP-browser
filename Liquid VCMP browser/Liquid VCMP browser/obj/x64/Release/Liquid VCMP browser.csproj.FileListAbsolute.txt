@@ -1,0 +1,30 @@
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Liquid VCMP browser.exe.config
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Liquid VCMP browser.exe
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Liquid VCMP browser.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\MetroFramework.Design.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\MetroFramework.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\MetroFramework.Fonts.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Newtonsoft.Json.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Newtonsoft.Json.xml
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid VCMP browser.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid_VCMP_browser.Properties.Resources.resources
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid VCMP browser.csproj.GenerateResource.Cache
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid VCMP browser.exe
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid VCMP browser.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\JsonIndenter.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\JsonIndenter.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid_VCMP_browser.FirstStartup.resources
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid_VCMP_browser.Initializer.resources
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid_VCMP_browser.Error.resources
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\obj\x64\Release\Liquid_VCMP_browser.Dashboard.resources
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Utils.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\Utils.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.Core.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.WinForms.dll
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.WinForms.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.WinForms.xml
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.xml
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.Core.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Liquid VCMP browser\bin\x64\Release\CefSharp.Core.xml

@@ -1,0 +1,7 @@
+C:\ir\lvcmp\Liquid VCMP browser\Updater\bin\x64\Release\Updater.dll
+C:\ir\lvcmp\Liquid VCMP browser\Updater\bin\x64\Release\Updater.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Updater\bin\x64\Release\Newtonsoft.Json.dll
+C:\ir\lvcmp\Liquid VCMP browser\Updater\bin\x64\Release\Newtonsoft.Json.xml
+C:\ir\lvcmp\Liquid VCMP browser\Updater\obj\x64\Release\Updater.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\Updater\obj\x64\Release\Updater.dll
+C:\ir\lvcmp\Liquid VCMP browser\Updater\obj\x64\Release\Updater.pdb

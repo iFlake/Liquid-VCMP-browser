@@ -1,0 +1,5 @@
+C:\ir\lvcmp\Liquid VCMP browser\VCSet\bin\Release\VCSet.dll
+C:\ir\lvcmp\Liquid VCMP browser\VCSet\bin\Release\VCSet.pdb
+C:\ir\lvcmp\Liquid VCMP browser\VCSet\obj\Release\VCSet.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\VCSet\obj\Release\VCSet.dll
+C:\ir\lvcmp\Liquid VCMP browser\VCSet\obj\Release\VCSet.pdb

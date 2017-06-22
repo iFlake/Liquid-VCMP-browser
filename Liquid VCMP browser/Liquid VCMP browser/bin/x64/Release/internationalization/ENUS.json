@@ -1,0 +1,14 @@
+{
+    "name": "English US",
+    "ltr": true,
+    "phrases":
+    {
+        "servers": "Servers",
+        "settings": "Settings",
+        "favorites": "Favorites",
+        "internet": "Internet",
+        "official": "Official",
+        "normal": "Normal",
+        "nickname": "Nickname"
+    }
+}

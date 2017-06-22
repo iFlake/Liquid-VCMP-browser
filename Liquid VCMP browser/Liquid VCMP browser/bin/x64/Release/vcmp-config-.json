@@ -1,0 +1,37 @@
+{
+    "masterlist": 
+    {
+        "url": "http://vcmp.master.cloudwards.es:10732"
+    },
+    "updater": 
+    {
+        "url": "https://updater.liquid.iceflake.cloudwards.es",
+        "password": "",
+        "check": true
+    },
+    "downloadmirror": 
+    {
+        "url": "https://mirror.liquid.iceflake.cloudwards.es",
+        "check": true
+    },
+    "directories": 
+    {
+        "vicecity": "Q:\\evt\\gta-vc.exe",
+        "downloads": ""
+    },
+    "internationalization": 
+    {
+        "language": "EN"
+    },
+    "defaultidentity": 
+    {
+        "nickname": "EK.IceFlake",
+        "welcomemessage": ""
+    },
+    "favorites": 
+    [
+    ],
+    "platformdependentidentity": 
+    [
+    ]
+}

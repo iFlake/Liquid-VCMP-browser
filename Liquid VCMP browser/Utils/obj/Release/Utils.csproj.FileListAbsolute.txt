@@ -1,0 +1,11 @@
+C:\ir\lvcmp\Liquid VCMP browser\Utils\bin\Release\Utils.dll
+C:\ir\lvcmp\Liquid VCMP browser\Utils\bin\Release\Utils.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Liquid_VCMP_browser.Tab.resources
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Utils.dll
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Utils.pdb
+C:\ir\lvcmp\Liquid VCMP browser\Utils\bin\Release\MetroFramework.dll
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Liquid_VCMP_browser.Servers.resources
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Liquid_VCMP_browser.ServersContent.resources
+C:\ir\lvcmp\Liquid VCMP browser\Utils\obj\Release\Liquid_VCMP_browser.ServerView.resources
